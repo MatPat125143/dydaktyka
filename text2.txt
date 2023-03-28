@@ -1,4 +1,8 @@
 Stoi na stacji lokomotywa.
 Ciężka, ogromna i pot z niej spływa tłusta oliwa.
 ciuch, ciuch
+<<<<<<< HEAD
  lokomotywa odjeżdża
+=======
+lokomotywa odjeżdża
+>>>>>>> parent of df5c410 (Revert "commit")
